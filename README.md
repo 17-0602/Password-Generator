@@ -36,7 +36,7 @@ The following image shows the web application's appearance and functionality:
 ![WebAppereance](assets/images/mock-upJS.png)
 
 ## Deployed app
-By clicking on the following link, you can access the deployed app: <link>https://17-0602.github.io/Me-and-my-work/</link>
+By clicking on the following link, you can access the deployed app: <link>https://17-0602.github.io/Password-Generator/</link>
 
 
 By clicking on the following link, you can access the repo on GitHub: <link>https://github.com/17-0602/Password-Generator</link>
