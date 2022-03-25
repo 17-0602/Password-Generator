@@ -41,7 +41,7 @@ function generatePassword() {
     }
 
     for (i = 0; i < pwLength; i++) {
-      generatedPassword += draft[Math.floor(Math.random() + draft.length)];
+      generatedPassword += draft[Math.floor(Math.random() * draft.length)];
     }
   } else {
     window.alert("Choose a valid number.");
